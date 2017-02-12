@@ -1,3 +1,3 @@
-"ini readme"
+# Ryurishy #
 
-## Heading 2 ##
+## Git example ##
